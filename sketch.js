@@ -28,7 +28,7 @@ function preload() {
   obstacle6 = loadImage("obstacle6.png");
 
   restartImg = loadImage("restart.png")
-  gameOverImg = loadImage("gameover.png")
+  gameOverImg = loadImage("gameOver.png")
 
   jumpSound = loadSound("jump.mp3")
   dieSound = loadSound("die.mp3")
